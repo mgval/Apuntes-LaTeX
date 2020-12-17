@@ -1,4 +1,4 @@
-# Información importantes
+# Información importante
 
 En este directorio usted encontrará lo siguiente
 
